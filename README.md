@@ -1,8 +1,3 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
-diff --git a/README.md b/README.md
-index 68c518b1835c18e90f5755a616f10d9110f0368b..cf477e6bde18ba2779023a08c4d8728ff9fd6368 100644
---- a/README.md
-+++ b/README.md
 @@ -1,20 +1,53 @@
 -Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jaii
 -=============================================================================================================================
@@ -70,6 +65,3 @@ index 68c518b1835c18e90f5755a616f10d9110f0368b..cf477e6bde18ba2779023a08c4d8728f
 -<a href="https://www.github.com/J4oJx1i" target="_blank" rel="noreferrer"><img
 -src="https://img.shields.io/github/followers/J4oJx1i?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 +</div>
- 
-EOF
-)
