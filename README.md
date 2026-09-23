@@ -7,7 +7,7 @@
 **Crafting content that looks great and performs even better.**
 
 [![Followers](https://img.shields.io/github/followers/J4oJx1i?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/J4oJx1i)
-[![Email](https://img.shields.io/badge/Email-jyeza559%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyeza559@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jaojaii.inwza%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaojaii.inwza@gmail.com)
 
 </div>
 
