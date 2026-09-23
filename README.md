@@ -40,7 +40,7 @@
 
 - GitHub: [@J4oJx1i](https://github.com/J4oJx1i)
 - Discord: [@J4oJx1i](https://discord.com/users/J4oJx1i)
-- Email: [jyeza559@gmail.com](mailto:jyeza559@gmail.com)
+- Email: [jaojaii.inwza@gmail.com](mailto:jyeza559@gmail.com)
 
 ---
 
