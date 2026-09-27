@@ -22,15 +22,15 @@
 
 <br/>
 
-## \`> whoami\`
+## `> whoami`
 
-\`\`\`txt
+```txt
 Jai / J4oJx1i
 Designer × Developer × Content Creator
 
 I like building things that feel good to look at,
 make sense to use, and actually exist outside the idea stage.
-\`\`\`
+```
 
 I move between **visual design, UI/UX, content, and code** — basically wherever an idea needs me to go.
 
@@ -94,7 +94,7 @@ I care a lot about the part where **engineering meets feeling** — motion, spac
 
 ## 🛰️ Current Transmission
 
-\`\`\`yaml
+```yaml
 building:
   - Among Star
 learning:
@@ -107,7 +107,7 @@ obsessed_with:
   - weird ideas worth prototyping
   - making things feel alive
 status: shipping
-\`\`\`
+```
 
 ---
 
