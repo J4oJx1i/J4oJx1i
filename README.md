@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B14,45:0F172A,100:312E81&text=JAI&fontColor=F8FAFC&fontSize=72&fontAlignY=38&desc=DESIGN%20%C3%97%20CODE%20%C3%97%20IDEAS&descAlignY=60&descSize=16&animation=fadeIn" alt="Jai profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B14,45:0F172A,100:312E81&text=JAII&fontColor=F8FAFC&fontSize=72&fontAlignY=38&desc=DESIGN%20%C3%97%20CODE%20%C3%97%20IDEAS&descAlignY=60&descSize=16&animation=fadeIn" alt="Jai profile header" />
 
 <a href="https://github.com/J4oJx1i">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=818CF8&center=true&vCenter=true&width=720&lines=I+turn+random+ideas+into+real+things.;Designer+%E2%86%92+Builder+%E2%86%92+Keep+shipping.;Currently+building+Among+Star+%E2%9C%A6" alt="Typing intro" />
@@ -25,7 +25,7 @@
 ## `> whoami`
 
 ```txt
-Jai / J4oJx1i
+Jaii / J4oJx1i
 Designer × Developer × Content Creator
 
 I like building things that feel good to look at,
@@ -115,7 +115,7 @@ status: shipping
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=J4oJx1i&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="Jai GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=J4oJx1i&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="Jaii GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4oJx1i&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" alt="Most used languages" />
 
 </div>
