@@ -115,8 +115,8 @@ status: shipping
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=J4oJx1i&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="Jaii GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4oJx1i&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=J4oJx1i&theme=github_dark" alt="Jaii GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J4oJx1i&theme=github_dark" alt="Repositories per language" />
 
 </div>
 
