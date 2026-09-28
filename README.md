@@ -111,49 +111,6 @@ status: shipping
 
 ---
 
-## 🛰️ What I'm Building
-
-<div align="center">
-
-<a href="https://amongstar.space">
-  <img src="https://img.shields.io/badge/CURRENTLY_BUILDING-AMONG_STAR-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Currently building Among Star" />
-</a>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,postgres,cloudflare&theme=dark" alt="Current development stack" />
-
-</div>
-
-<br/>
-
-```txt
-Building private projects behind the scenes.
-
-Current focus:
-Among Star — product design, UI/UX, full-stack development,
-community systems, moderation tools, and production deployment.
-```
-
-- ✦ Designing the product experience from idea → interface → production
-- 🌌 Building the Galaxy / Signal experience
-- 🎧 Developing temporary 1:1 Listening Spaces
-- 🛡️ Working on safety, reporting, moderation, and age-aware systems
-- 🔭 Building Observatory — the internal staff/admin system
-- 🚀 Shipping and maintaining the live production site
-
-<div align="center">
-
-**Private repos. Public product. Real users.**
-
-<a href="https://amongstar.space">
-  <img src="https://img.shields.io/badge/SEE_IT_LIVE-amongstar.space-818CF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="See Among Star live" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### Find me somewhere between the idea and the finished thing.
