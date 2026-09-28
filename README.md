@@ -43,6 +43,12 @@ Right now, most of my energy is going into **Among Star**, a web experience buil
 <div align="center">
 
 <a href="https://amongstar.space">
+  <img src="./assets/among-star-logo.png" width="128" alt="Among Star logo" />
+</a>
+
+<br/><br/>
+
+<a href="https://amongstar.space">
   <img src="https://img.shields.io/badge/amongstar.space-OPEN_THE_GALAXY-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Among Star" />
 </a>
 
