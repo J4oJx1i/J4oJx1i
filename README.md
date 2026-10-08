@@ -1,128 +1,132 @@
 <div align="center">
 
 <a href="https://github.com/J4oJx1i">
-  <img src="./assets/jaojaii-universe.svg" width="100%" alt="JAOJAII — Design × Code × Ideas, custom cosmic banner" />
+  <img src="./assets/jaojaii-orbit-v2.svg" width="100%" alt="JAOJAII — Design, Code and Ideas" />
 </a>
 
 <br/>
 
 <a href="https://github.com/J4oJx1i">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2300&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=52&lines=DESIGNER+%E2%9C%A6+DEVELOPER+%E2%9C%A6+CREATOR;Making+the+internet+feel+a+little+more+alive.;Currently+transmitting+from+Among+Star+%F0%9F%8C%8C;Build+with+curiosity.+Ship+with+heart." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2700&pause=1100&color=8B5CF6&center=true&vCenter=true&width=620&height=55&lines=Designer+%2B+Developer+%2B+Creator;Making+interfaces+feel+alive.;Currently+building+Among+Star.;Stay+curious.+Make+it+real." alt="Animated JAOJAII introduction inspired by Animata Typing Text" />
 </a>
 
-<br/>
+<p>
+  <a href="https://amongstar.space"><img alt="Among Star live" src="https://img.shields.io/badge/AMONG_STAR-LIVE-8B5CF6?style=for-the-badge&labelColor=12132B" /></a>
+  <a href="https://github.com/J4oJx1i"><img alt="GitHub J4oJx1i" src="https://img.shields.io/badge/GITHUB-J4oJx1i-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=12132B" /></a>
+  <a href="mailto:jaojaii.inwza@gmail.com"><img alt="Contact JAOJAII" src="https://img.shields.io/badge/CONTACT-SAY_HELLO-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=12132B" /></a>
+</p>
 
-<a href="https://amongstar.space"><img src="https://img.shields.io/badge/%E2%9C%A6_AMONG_STAR-LIVE-8B5CF6?style=for-the-badge&labelColor=101127" alt="Among Star live" /></a>
-<a href="https://github.com/J4oJx1i"><img src="https://img.shields.io/badge/GITHUB-J4oJx1i-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=101127" alt="GitHub profile" /></a>
-<a href="mailto:jaojaii.inwza@gmail.com"><img src="https://img.shields.io/badge/CONTACT-SAY_HELLO-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101127" alt="Contact JAOJAII" /></a>
+**DESIGN × DEVELOPMENT × IMAGINATION**
+
+<sub>Crafting digital experiences with a little extra soul.</sub>
 
 </div>
 
 ---
 
-### `01 / IDENTITY` — Hello, I'm JAOJAII ✦
+### ✦ 01 — ABOUT ME
 
-```typescript
-const jaojaii = {
-  identity: "Designer × Developer × Content Creator",
-  mindset: ["curiosity", "creativity", "craft"],
-  interests: ["UI/UX", "visual identity", "motion", "full-stack"],
-  currentlyBuilding: "Among Star ✦",
-  mission: "Turn strange ideas into beautiful, useful things.",
-  status: "always creating",
-};
-```
+Hey, I'm **JAOJAII** — a designer, developer and content creator.
 
-I live where **design meets development**. I enjoy making interfaces that don't just work, but **feel alive** — with thoughtful motion, meaningful details, and a little bit of magic.
+I like turning unusual ideas into real things. I work across **UI/UX, visual identity, web development and creative experiments**, with an obsession for the little details that make an interface feel alive.
 
-> **A good idea deserves to exist outside your imagination.**
+**What drives me**
+
+- ✦ **Design with intention** — clean visuals, thoughtful motion and good hierarchy.
+- ⚡ **Build what I imagine** — from the first sketch to working software.
+- 🌌 **Create with feeling** — experiences that connect with real people.
+
+> A good idea deserves to exist outside your imagination.
 
 ---
 
-### `02 / FEATURED TRANSMISSION` — Among Star 🌌
+### 🌌 02 — FEATURED UNIVERSE
 
 <div align="center">
 
-<a href="https://amongstar.space"><img src="./assets/among-star-logo.png" width="115" alt="Among Star project logo" /></a>
+<a href="https://amongstar.space">
+  <img src="./assets/among-star-logo.png" width="118" alt="Among Star logo" />
+</a>
 
-<br/><br/>
+**AMONG STAR**
 
-**A universe where feelings become signals, and strangers can feel less alone.**
+*ไม่ต้องรู้จักกัน ก็เข้าใจกันได้*
 
-*“ไม่ต้องรู้จักกัน ก็เข้าใจกันได้”*
+A space where feelings become stars and strangers can feel less alone.
 
-<a href="https://amongstar.space"><img src="https://img.shields.io/badge/ENTER_THE_GALAXY-amongstar.space-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=11132E" alt="Visit Among Star" /></a>
+<a href="https://amongstar.space"><img src="https://img.shields.io/badge/ENTER_THE_GALAXY-amongstar.space-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=12132B" alt="Open Among Star" /></a>
 
 </div>
 
-**Among Star** is a web experience built around anonymous emotional support and listening. Instead of chasing likes or popularity, people share temporary emotional **Signals** in a living **Galaxy**, offer encouragement, and connect through 1:1 Listening Spaces.
+**Among Star** is an anonymous emotional-support experience where people send their feelings as temporary **Signals** into a living **Galaxy**. There's room for encouragement, listening and meaningful connection — without popularity scores.
 
-| ✦ The universe | ✧ The experience |
-|:--|:--|
-| 🌌 **Living Galaxy** | Feelings appear as temporary stars and signals |
-| 💜 **Kindness first** | Encouragement without popularity rankings |
-| 🎧 **Listening Spaces** | Temporary one-to-one conversations |
-| 🛡️ **Safer community** | Age-aware systems, reporting and moderation |
-| 🔭 **Observatory** | Purpose-built tools for community operations |
+**Inside the universe**
 
-**Tech constellation**
+- 🌠 **Living Galaxy** — temporary emotional signals visualized as stars.
+- 💜 **Encouragement** — kindness without like counts.
+- 🎧 **Listening Space** — temporary one-on-one listening conversations.
+- 🛡️ **Safety** — age-aware systems, reporting and moderation.
+- 🔭 **Observatory** — custom tools for community operations.
+
+**Built with**
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,postgres,cloudflare&theme=dark" alt="Among Star technology stack" />
 
-**Explore:** [amongstar.space](https://amongstar.space)
+**Explore the project → [amongstar.space](https://amongstar.space)**
 
 ---
 
-### `03 / TOOLBOX` — My creative arsenal ⚡
+### ⚡ 03 — THE TOOLBOX
 
 **Development**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,supabase,postgres,lua,vscode,git,github&theme=dark&perline=13" alt="Development tools and technologies" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,supabase,postgres,lua,vscode,git,github&theme=dark&perline=7" alt="Development stack" />
 
-**Design & Creative**
+**Design & creative**
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Design and creative tools" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Design toolkit" />
 
-I care about the details people might not notice consciously: **motion, hierarchy, spacing, atmosphere**, and the tiny interactions that make software feel human.
+**Favorite intersection:** where engineering meets feeling — motion, spacing, hierarchy, interaction and atmosphere.
 
 ---
 
-### `04 / SIGNAL STATUS` — Current transmission 🛰️
+### 🛰️ 04 — CURRENT TRANSMISSION
 
-```yaml
-CALLSIGN: JAOJAII
-SECTOR: CREATIVE_UNIVERSE
-SIGNAL: ONLINE
+**CALLSIGN:** JAOJAII  
+**STATUS:** Creating / learning / shipping  
+**MAIN MISSION:** Among Star  
+**SIDE QUESTS:** UI experiments, thoughtful animation, full-stack architecture
 
-BUILDING:
-  - Among Star
-EXPLORING:
-  - better product architecture
-  - thoughtful animation and interaction
-  - safer community systems
-  - cleaner full-stack workflows
-CREATIVE_FUEL:
-  - UI / UX
-  - visual identity
-  - ambitious little experiments
+<details>
+<summary><b>✦ OPEN THE SIGNAL — What's on my radar?</b></summary>
 
-MOTTO: "Stay curious. Make it real."
-```
+<br/>
+
+- Better product architecture and cleaner workflows
+- Safer, more welcoming online communities
+- Creative motion and interaction design
+- Weird ideas worth prototyping
+
+**Motto:** Stay curious. Make it real.
+
+</details>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4oJx1i&layout=compact&hide_border=true&bg_color=0D1026&title_color=A78BFA&text_color=C7D2FE&langs_count=6" alt="Most used languages" />
+**✦ EVERY STRANGE IDEA COULD BE A NEW UNIVERSE ✦**
+
+<a href="https://amongstar.space">Among Star</a> ·
+<a href="https://github.com/J4oJx1i">GitHub</a> ·
+<a href="mailto:jaojaii.inwza@gmail.com">Say hello</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=J4oJx1i&style=for-the-badge&color=6366f1&label=GALAXY+VISITORS" alt="Profile visitors" />
+<img src="https://komarev.com/ghpvc/?username=J4oJx1i&style=flat-square&color=8b5cf6&label=Galaxy+visitors" alt="Visitor counter" />
 
 <br/><br/>
 
-**✦ Every strange idea is a possible new universe. ✦**
-
-[Among Star](https://amongstar.space) · [GitHub](https://github.com/J4oJx1i) · [Say Hello](mailto:jaojaii.inwza@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:070B14,50:312E81,100:070B14" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:080B1D,50:312E81,100:080B1D" width="100%" alt="Footer wave" />
 
 </div>
