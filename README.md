@@ -144,7 +144,7 @@ My favorite projects happen at the intersection of **creative direction, interfa
 
 <br/><br/>
 
-<img src="./assets/jaojaii-signal-status.svg" width="430" alt="JAOJAII Creative Universe — Signal Online" />
+<img src="./assets/jaojaii-signal-v3.svg" width="430" alt="JAOJAII Creative Universe — Signal Online" />
 
 <br/><br/>
 
