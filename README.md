@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B14,45:0F172A,100:312E81&text=JAII&fontColor=F8FAFC&fontSize=72&fontAlignY=38&desc=DESIGN%20%C3%97%20CODE%20%C3%97%20IDEAS&descAlignY=60&descSize=16&animation=fadeIn" alt="Jai profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B14,45:0F172A,100:312E81&text=JaoJaii&fontColor=F8FAFC&fontSize=62&fontAlignY=38&desc=DESIGN%20%C3%97%20CODE%20%C3%97%20IDEAS&descAlignY=60&descSize=16&animation=fadeIn&fontAlign=50" alt="JaoJaii profile header" />
 
 <a href="https://github.com/J4oJx1i">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=818CF8&center=true&vCenter=true&width=720&lines=I+turn+random+ideas+into+real+things.;Designer+%E2%86%92+Builder+%E2%86%92+Keep+shipping.;Currently+building+Among+Star+%E2%9C%A6" alt="Typing intro" />
@@ -22,10 +22,16 @@
 
 <br/>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3500&pause=1000&color=A5B4FC&center=true&vCenter=true&width=620&lines=%E2%9C%A6+INITIALIZING+CREATIVE+UNIVERSE+%E2%9C%A6;%E2%9C%A6+DESIGN+%2F+DEVELOP+%2F+DISCOVER+%E2%9C%A6" alt="Creative universe status" />
+
+</div>
+
 ## `> whoami`
 
 ```txt
-Jaii / J4oJx1i
+JaoJaii / J4oJx1i
 Designer × Developer × Content Creator
 
 I like building things that feel good to look at,
@@ -36,9 +42,15 @@ I move between **visual design, UI/UX, content, and code** — basically whereve
 
 Right now, most of my energy is going into **Among Star**, a web experience built around anonymous emotional support, listening, and the idea that sometimes people don't need advice — they just need to know someone is there.
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:070B14,50:6366F1,100:070B14" width="100%" alt="" />
+
+</div>
 
 ## ✦ Featured Project — Among Star
+
+> `TRANSMISSION 001` · A small signal in a very big universe
 
 <div align="center">
 
@@ -78,7 +90,11 @@ Instead of profiles, popularity scores, and endless feeds, people exist as stars
 
 **Live → [amongstar.space](https://amongstar.space)**
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:070B14,50:6366F1,100:070B14" width="100%" alt="" />
+
+</div>
 
 ## ⚡ Things I Work With
 
@@ -96,7 +112,11 @@ Instead of profiles, popularity scores, and endless feeds, people exist as stars
 
 I care a lot about the part where **engineering meets feeling** — motion, spacing, hierarchy, interaction, atmosphere, and all the tiny details that make a product feel intentional.
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:070B14,50:6366F1,100:070B14" width="100%" alt="" />
+
+</div>
 
 ## 🛰️ Current Transmission
 
@@ -113,6 +133,7 @@ obsessed_with:
   - weird ideas worth prototyping
   - making things feel alive
 status: shipping
+signal: "stay curious, build boldly"
 ```
 
 ---
