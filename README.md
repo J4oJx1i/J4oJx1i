@@ -14,7 +14,6 @@
   <a href="https://amongstar.space"><img alt="Among Stars live" src="https://img.shields.io/badge/AMONG_STARS-LIVE-8B5CF6?style=for-the-badge&labelColor=12132B" /></a>
   <a href="https://github.com/J4oJx1i"><img alt="GitHub J4oJx1i" src="https://img.shields.io/badge/GITHUB-J4oJx1i-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=12132B" /></a>
   <a href="mailto:jaojaii.inwza@gmail.com"><img alt="Contact JAOJAII" src="https://img.shields.io/badge/CONTACT-SAY_HELLO-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=12132B" /></a>
-  <a href="https://github.com/J4oJx1i?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/J4oJx1i?style=for-the-badge&logo=github&label=FOLLOWERS&color=818CF8&labelColor=12132B" /></a>
 </p>
 
 **DESIGN × DEVELOPMENT × IMAGINATION**
@@ -145,7 +144,7 @@ My favorite projects happen at the intersection of **creative direction, interfa
 
 <br/><br/>
 
-<img src="./assets/jaojaii-signal-status.svg" width="470" alt="JAOJAII Creative Universe — Signal Online" />
+<img src="./assets/jaojaii-signal-status.svg" width="430" alt="JAOJAII Creative Universe — Signal Online" />
 
 <br/><br/>
 
