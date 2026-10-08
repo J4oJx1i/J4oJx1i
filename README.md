@@ -14,6 +14,7 @@
   <a href="https://amongstar.space"><img alt="Among Star live" src="https://img.shields.io/badge/AMONG_STAR-LIVE-8B5CF6?style=for-the-badge&labelColor=12132B" /></a>
   <a href="https://github.com/J4oJx1i"><img alt="GitHub J4oJx1i" src="https://img.shields.io/badge/GITHUB-J4oJx1i-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=12132B" /></a>
   <a href="mailto:jaojaii.inwza@gmail.com"><img alt="Contact JAOJAII" src="https://img.shields.io/badge/CONTACT-SAY_HELLO-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=12132B" /></a>
+  <a href="https://github.com/J4oJx1i?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/J4oJx1i?style=for-the-badge&logo=github&label=FOLLOWERS&color=818CF8&labelColor=12132B" /></a>
 </p>
 
 **DESIGN × DEVELOPMENT × IMAGINATION**
@@ -22,108 +23,129 @@
 
 </div>
 
+
 ---
 
-### ✦ 01 — ABOUT ME
+### ✦ 01 — IDENTITY / WHO AM I?
 
-Hey, I'm **JAOJAII** — a designer, developer and content creator.
+Hey, I'm **JAOJAII** — a **Designer × Developer × Content Creator**.
 
-I like turning unusual ideas into real things. I work across **UI/UX, visual identity, web development and creative experiments**, with an obsession for the little details that make an interface feel alive.
+I like building things that **feel good to look at, make sense to use, and actually exist outside the idea stage**.
+
+I move between **visual design, UI/UX, content, and code** — basically wherever an idea needs me to go. I love taking a strange idea and turning it into something real, useful, and a little unexpected.
+
+Right now, most of my energy is going into **Among Star**, a web experience built around anonymous emotional support, listening, and the idea that sometimes **people don't need advice — they just need to know someone is there**.
 
 **What drives me**
 
-- ✦ **Design with intention** — clean visuals, thoughtful motion and good hierarchy.
-- ⚡ **Build what I imagine** — from the first sketch to working software.
-- 🌌 **Create with feeling** — experiences that connect with real people.
+- ✦ **Design with intention** — clean visuals, meaningful motion, and thoughtful hierarchy
+- ⚡ **Build what I imagine** — from the first sketch to something people can use
+- 🌌 **Create with feeling** — digital experiences that connect with real people
 
 > A good idea deserves to exist outside your imagination.
 
 ---
 
-### 🌌 02 — FEATURED UNIVERSE
+### 🌌 02 — FEATURED UNIVERSE / AMONG STAR
 
 <div align="center">
 
 <a href="https://amongstar.space">
-  <img src="./assets/among-star-logo.png" width="118" alt="Among Star logo" />
+  <img src="./assets/among-star-logo.png" width="128" alt="Among Star logo" />
 </a>
 
-**AMONG STAR**
+<br/>
 
-*ไม่ต้องรู้จักกัน ก็เข้าใจกันได้*
+**AMONG STAR — A PLACE TO BE HEARD**
 
-A space where feelings become stars and strangers can feel less alone.
+> **“ไม่ต้องรู้จักกัน ก็เข้าใจกันได้”**  
+> *You don't have to know someone to understand them.*
 
-<a href="https://amongstar.space"><img src="https://img.shields.io/badge/ENTER_THE_GALAXY-amongstar.space-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=12132B" alt="Open Among Star" /></a>
+<a href="https://amongstar.space">
+  <img src="https://img.shields.io/badge/ENTER_THE_GALAXY-amongstar.space-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=12132B" alt="Explore Among Star" />
+</a>
 
 </div>
 
-**Among Star** is an anonymous emotional-support experience where people send their feelings as temporary **Signals** into a living **Galaxy**. There's room for encouragement, listening and meaningful connection — without popularity scores.
+**Among Star** is an anonymous space for people to send out what they're feeling as **Signals** into a shared **Galaxy**.
 
-**Inside the universe**
+Instead of profiles, popularity scores, and endless feeds, **people exist as stars**. They can vent, send encouragement, or enter a temporary **1:1 Listening Space** when they want someone to simply be there and listen.
 
-- 🌠 **Living Galaxy** — temporary emotional signals visualized as stars.
-- 💜 **Encouragement** — kindness without like counts.
-- 🎧 **Listening Space** — temporary one-on-one listening conversations.
-- 🛡️ **Safety** — age-aware systems, reporting and moderation.
-- 🔭 **Observatory** — custom tools for community operations.
+**What I'm building into it**
 
-**Built with**
+- 🌌 **Living Galaxy** — a galaxy of temporary emotional Signals
+- ✨ **Anonymous star identities** — stars instead of public-facing profiles
+- 💜 **Encouragement** — support without like counts or popularity rankings
+- 🎧 **1:1 Listening Spaces** — temporary spaces for someone to listen
+- 🛡️ **Community safety** — age-aware matching, reporting, moderation, and safety systems
+- 🔭 **Observatory** — a custom staff/admin system for community operations
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,postgres,cloudflare&theme=dark" alt="Among Star technology stack" />
+**Technology behind the galaxy**
 
-**Explore the project → [amongstar.space](https://amongstar.space)**
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,postgres,cloudflare&theme=dark&perline=7" alt="Among Star stack: Next.js, React, TypeScript, Tailwind, Supabase, PostgreSQL, Cloudflare" />
+
+**Live project → [amongstar.space](https://amongstar.space)**
 
 ---
 
-### ⚡ 03 — THE TOOLBOX
+### ⚡ 03 — THINGS I WORK WITH / TOOLBOX
 
 **Development**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,supabase,postgres,lua,vscode,git,github&theme=dark&perline=7" alt="Development stack" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,supabase,postgres,lua,vscode,git,github&theme=dark&perline=7" alt="Development tools" />
 
-**Design & creative**
+**Design & Creative**
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Design toolkit" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Design tools" />
 
-**Favorite intersection:** where engineering meets feeling — motion, spacing, hierarchy, interaction and atmosphere.
+I care a lot about the part where **engineering meets feeling** — motion, spacing, hierarchy, interaction, atmosphere, and all the tiny details that make a product feel intentional.
+
+My favorite projects happen at the intersection of **creative direction, interface design, and working code**.
 
 ---
 
 ### 🛰️ 04 — CURRENT TRANSMISSION
 
 **CALLSIGN:** JAOJAII  
-**STATUS:** Creating / learning / shipping  
-**MAIN MISSION:** Among Star  
-**SIDE QUESTS:** UI experiments, thoughtful animation, full-stack architecture
+**STATUS:** Shipping ✦  
+**CURRENT MISSION:** Among Star
 
-<details>
-<summary><b>✦ OPEN THE SIGNAL — What's on my radar?</b></summary>
+**🔭 Building**
+- Among Star
 
-<br/>
+**📡 Learning**
+- Better product architecture
+- Safer community systems
+- Cleaner full-stack workflows
 
-- Better product architecture and cleaner workflows
-- Safer, more welcoming online communities
-- Creative motion and interaction design
+**✨ Obsessed with**
+- UI / UX
+- Visual identity
 - Weird ideas worth prototyping
+- Making things feel alive
 
-**Motto:** Stay curious. Make it real.
+**🚀 Exploring next**
+- Thoughtful animation and interaction design
+- Creative web experiments
+- New ways to turn ideas into real experiences
 
-</details>
+> **SIGNAL:** Stay curious. Build boldly. Make it real.
 
 ---
 
 <div align="center">
 
+### Find me somewhere between the idea and the finished thing.
+
 **✦ EVERY STRANGE IDEA COULD BE A NEW UNIVERSE ✦**
 
 <a href="https://amongstar.space">Among Star</a> ·
 <a href="https://github.com/J4oJx1i">GitHub</a> ·
-<a href="mailto:jaojaii.inwza@gmail.com">Say hello</a>
+<a href="mailto:jaojaii.inwza@gmail.com">Email</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=J4oJx1i&style=flat-square&color=8b5cf6&label=Galaxy+visitors" alt="Visitor counter" />
+<img src="https://komarev.com/ghpvc/?username=J4oJx1i&style=flat-square&color=8b5cf6&label=Galaxy+visitors" alt="Galaxy visitor counter" />
 
 <br/><br/>
 
