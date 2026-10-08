@@ -7,11 +7,11 @@
 <br/>
 
 <a href="https://github.com/J4oJx1i">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2700&pause=1100&color=8B5CF6&center=true&vCenter=true&width=620&height=55&lines=Designer+%2B+Developer+%2B+Creator;Making+interfaces+feel+alive.;Currently+building+Among+Star.;Stay+curious.+Make+it+real." alt="Animated JAOJAII introduction inspired by Animata Typing Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2700&pause=1100&color=8B5CF6&center=true&vCenter=true&width=620&height=55&lines=Designer+%2B+Developer+%2B+Creator;Making+interfaces+feel+alive.;Currently+building+Among+Stars.;Stay+curious.+Make+it+real." alt="Animated JAOJAII introduction inspired by Animata Typing Text" />
 </a>
 
 <p>
-  <a href="https://amongstar.space"><img alt="Among Star live" src="https://img.shields.io/badge/AMONG_STAR-LIVE-8B5CF6?style=for-the-badge&labelColor=12132B" /></a>
+  <a href="https://amongstar.space"><img alt="Among Stars live" src="https://img.shields.io/badge/AMONG_STARS-LIVE-8B5CF6?style=for-the-badge&labelColor=12132B" /></a>
   <a href="https://github.com/J4oJx1i"><img alt="GitHub J4oJx1i" src="https://img.shields.io/badge/GITHUB-J4oJx1i-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=12132B" /></a>
   <a href="mailto:jaojaii.inwza@gmail.com"><img alt="Contact JAOJAII" src="https://img.shields.io/badge/CONTACT-SAY_HELLO-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=12132B" /></a>
   <a href="https://github.com/J4oJx1i?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/J4oJx1i?style=for-the-badge&logo=github&label=FOLLOWERS&color=818CF8&labelColor=12132B" /></a>
@@ -34,7 +34,7 @@ I like building things that **feel good to look at, make sense to use, and actua
 
 I move between **visual design, UI/UX, content, and code** — basically wherever an idea needs me to go. I love taking a strange idea and turning it into something real, useful, and a little unexpected.
 
-Right now, most of my energy is going into **Among Star**, a web experience built around anonymous emotional support, listening, and the idea that sometimes **people don't need advice — they just need to know someone is there**.
+Right now, most of my energy is going into **Among Stars**, a web experience built around anonymous emotional support, listening, and the idea that sometimes **people don't need advice — they just need to know someone is there**.
 
 **What drives me**
 
@@ -46,28 +46,28 @@ Right now, most of my energy is going into **Among Star**, a web experience buil
 
 ---
 
-### 🌌 02 — FEATURED UNIVERSE / AMONG STAR
+### 🌌 02 — FEATURED UNIVERSE / AMONG STARS
 
 <div align="center">
 
 <a href="https://amongstar.space">
-  <img src="./assets/among-star-logo.png" width="128" alt="Among Star logo" />
+  <img src="./assets/among-star-logo.png" width="128" alt="Among Stars logo" />
 </a>
 
 <br/>
 
-**AMONG STAR — A PLACE TO BE HEARD**
+**AMONG STARS — A PLACE TO BE HEARD**
 
 > **“ไม่ต้องรู้จักกัน ก็เข้าใจกันได้”**  
 > *You don't have to know someone to understand them.*
 
 <a href="https://amongstar.space">
-  <img src="https://img.shields.io/badge/ENTER_THE_GALAXY-amongstar.space-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=12132B" alt="Explore Among Star" />
+  <img src="https://img.shields.io/badge/ENTER_THE_GALAXY-amongstar.space-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=12132B" alt="Explore Among Stars" />
 </a>
 
 </div>
 
-**Among Star** is an anonymous space for people to send out what they're feeling as **Signals** into a shared **Galaxy**.
+**Among Stars** is an anonymous space for people to send out what they're feeling as **Signals** into a shared **Galaxy**.
 
 Instead of profiles, popularity scores, and endless feeds, **people exist as stars**. They can vent, send encouragement, or enter a temporary **1:1 Listening Space** when they want someone to simply be there and listen.
 
@@ -82,7 +82,7 @@ Instead of profiles, popularity scores, and endless feeds, **people exist as sta
 
 **Technology behind the galaxy**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,postgres,cloudflare&theme=dark&perline=7" alt="Among Star stack: Next.js, React, TypeScript, Tailwind, Supabase, PostgreSQL, Cloudflare" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,postgres,cloudflare&theme=dark&perline=7" alt="Among Stars stack: Next.js, React, TypeScript, Tailwind, Supabase, PostgreSQL, Cloudflare" />
 
 **Live project → [amongstar.space](https://amongstar.space)**
 
@@ -108,10 +108,10 @@ My favorite projects happen at the intersection of **creative direction, interfa
 
 **CALLSIGN:** JAOJAII  
 **STATUS:** Shipping ✦  
-**CURRENT MISSION:** Among Star
+**CURRENT MISSION:** Among Stars
 
 **🔭 Building**
-- Among Star
+- Among Stars
 
 **📡 Learning**
 - Better product architecture
@@ -139,13 +139,13 @@ My favorite projects happen at the intersection of **creative direction, interfa
 
 **✦ EVERY STRANGE IDEA COULD BE A NEW UNIVERSE ✦**
 
-<a href="https://amongstar.space">Among Star</a> ·
+<a href="https://amongstar.space">Among Stars</a> ·
 <a href="https://github.com/J4oJx1i">GitHub</a> ·
 <a href="mailto:jaojaii.inwza@gmail.com">Email</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=J4oJx1i&style=flat-square&color=8b5cf6&label=Galaxy+visitors" alt="Galaxy visitor counter" />
+<img src="./assets/jaojaii-signal-status.svg" width="470" alt="JAOJAII Creative Universe — Signal Online" />
 
 <br/><br/>
 
